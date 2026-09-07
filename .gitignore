@@ -1,0 +1,23 @@
+﻿# Archivos generados por Android Studio / Gradle
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Archivos de compilación
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Logs
+*.log
+
+# Archivos de firma (nunca subir keystore)
+*.jks
+*.keystore
