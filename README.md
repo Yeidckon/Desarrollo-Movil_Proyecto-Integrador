@@ -19,4 +19,4 @@ Justificación: estas piezas traducen el código a formato APK y permiten la com
 Lenguaje - Kotlin
 
 Versión: la incluida por defecto en Android Studio Quail 3
-Justificación: lenguaje oficial de Android desde 2019, ss concisintaxia, seguridad contra nulos, interoperable con Java.
+Justificación: lenguaje oficial de Android desde 2019, interoperable con Java.
